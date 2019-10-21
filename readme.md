@@ -7,11 +7,16 @@ This is just a place holder for a quote management package that I would like to 
 
     a. https://www.goodreads.com/api/index#review.show_by_user_and_book   
     b. https://www.goodreads.com/api/index#review.create   
-    c. https://www.goodreads.com/api/index#quotes.create   
-    d. https://theysaidso.com/api/   
+    c. https://favqs.com/api  
 
 3. Store quotes and reviews in markdown files that can be referenced.
 4. Build a tibble format that stores book information, quotes, and reviews a user has written.
 5. Provide a function that builds the markdown quote with link to reference as an inline or main quote.
 6. Provide a way to for a user to use quotes from tibble (or goodreads) in their writing in an `.md` or most likely the `.Rmd`.
 7. A function that searches through a blog's `.md` and `.Rmd` files to build a summary of how often quotes have been used or books have been cited.
+
+## favQs Website
+
+The [FavQs](https://favqs.com/) website has [an API](https://favqs.com/api).  It looks like it will let me push and pull quotes. Private quote management is only $5.99 a year and they use stripe to manage payments.
+
+### 
