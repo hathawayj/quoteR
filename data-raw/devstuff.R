@@ -4,7 +4,7 @@ library(desc)
 library(pkgdown)
 
 pkgdown::build_site()
-# https://github.com/metrumresearchgroup/sinew
+# https://colinfay.me/build-api-wrapper-package-r/
 # https://github.com/ropensci/bib2df
 
 # Remove default DESC
