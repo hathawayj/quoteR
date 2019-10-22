@@ -4,6 +4,8 @@ library(desc)
 library(pkgdown)
 
 pkgdown::build_site()
+# https://github.com/metrumresearchgroup/sinew
+# https://github.com/ropensci/bib2df
 
 # Remove default DESC
 unlink("DESCRIPTION")

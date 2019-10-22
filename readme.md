@@ -1,3 +1,6 @@
+  [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+
+
 ## quoteR R package
 
 This is just a place holder for a quote management package that I would like to build.  Here are the objectives
@@ -20,3 +23,6 @@ This is just a place holder for a quote management package that I would like to 
 The [FavQs](https://favqs.com/) website has [an API](https://favqs.com/api).  It looks like it will let me push and pull quotes. Private quote management is only $5.99 a year and they use stripe to manage payments.
 
 ### 
+
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
